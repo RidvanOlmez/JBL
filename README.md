@@ -2,4 +2,4 @@
 
 -- Used HTML, SCSS, CSS
 
-!(gif)(auto.gif)
+![gif](images/auto.gif)
